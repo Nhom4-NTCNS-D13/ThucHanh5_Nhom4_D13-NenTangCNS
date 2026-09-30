@@ -12,7 +12,7 @@
 **Phần 2: Tạo và chỉnh sửa nội dung đa phương tiện (CLO9, CLO12)**
 
 3. **Infographic (2.1)**: Tạo infographic "Lợi ích của công nghệ số trong học tập" bằng Canva AI (Magic Design) với prompt *"Tạo infographic về lợi ích của công nghệ số trong học tập."* Sau đó đổi toàn bộ sang tông xanh dương/trắng, thay hình minh họa AI bằng ảnh thật từ Unsplash (qua ứng dụng CanSplash) và thêm ghi chú bản quyền.
-4. **Video (2.2)**: Dựng video khoảng 30 giây giới thiệu lợi ích công nghệ số bằng CapCut từ 5 video Pexels và 1 bản nhạc FreeSound; thêm chữ cho từng cảnh, hiệu ứng chuyển cảnh và fade out nhạc; xuất MP4 1080p dưới 50MB.
+4. **Video (2.2)**: Dựng video khoảng 30 giây giới thiệu lợi ích công nghệ số bằng CapCut từ 5 video Pexels và 1 bản nhạc FreeSound; thêm chữ cho từng cảnh, hiệu ứng chuyển cảnh và fade out nhạc; xuất MP4 1080p (khoảng 25MB).
 
 **Phần 3: Tạo và quản lý mã nguồn (CLO9)**
 
@@ -21,11 +21,25 @@
 
 ## Cấu trúc thư mục
 
-- **index.html**: Trang web hiển thị infographic và video
-- **NhiemVu_1.1_BaoCao**: File PDF báo cáo 1 trang
-- **NhiemVu_1.2_HopTacNhom**: File PDF bản nhóm + ảnh Version History
-- **NhiemVu_2.1_Infographic**: `infographic_loiich_congnghe_so.png` + `canva_giaodien.png` (CC BY 4.0)
-- **NhiemVu_2.2_Video**: `video_loiich_congnghe_so.mp4` + `capcut_giaodien.png` (CC BY 4.0)
+```
+ThucHanh5_Nhom4_D13-NenTangCNS/
+├── README.md
+├── LICENSE                                   # CC BY 4.0
+├── index.html                                # Nhiệm vụ 3.1
+├── Phan1_VanBan/
+│   ├── NhiemVu1.1_BaiTH5.pdf                 # Nhiệm vụ 1.1
+│   ├── NhiemVu1.2_BaiTH5.pdf                 # Nhiệm vụ 1.2
+│   └── screenshots/
+│       └── lichsu_chinhsua.png               # Version History Google Docs
+└── Phan2_DaPhuongTien/
+    ├── infographic_loiich_congnghe_so.png    # Nhiệm vụ 2.1
+    ├── video_loiich_congnghe_so.mp4          # Nhiệm vụ 2.2
+    └── screenshots/
+        ├── canva_giaodien.png
+        └── capcut_giaodien.png
+```
+
+Mở `index.html` bằng trình duyệt để xem infographic và video trên cùng một trang.
 
 ## Nguồn tư liệu video (Nhiệm vụ 2.2)
 
