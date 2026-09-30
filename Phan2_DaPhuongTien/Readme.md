@@ -1,4 +1,4 @@
-# ThucHanh05_NguyenManhKhang
+# ThucHanh05_Nhom4
 
 **Bài thực hành 05: Tạo, quản lý và chia sẻ nội dung số**
 Sinh viên: Nguyễn Mạnh Khang
