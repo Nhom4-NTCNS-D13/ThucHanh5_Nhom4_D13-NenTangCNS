@@ -12,7 +12,7 @@
 **Phần 2: Tạo và chỉnh sửa nội dung đa phương tiện (CLO9, CLO12)**
 
 3. **Infographic (2.1)**: Tạo infographic "Lợi ích của công nghệ số trong học tập" bằng Canva AI (Magic Design) với prompt *"Tạo infographic về lợi ích của công nghệ số trong học tập."* Sau đó đổi toàn bộ sang tông xanh dương/trắng, thay hình minh họa AI bằng ảnh thật từ Unsplash (qua ứng dụng CanSplash) và thêm ghi chú bản quyền.
-4. **Video (2.2)**: Dựng video khoảng 30 giây giới thiệu lợi ích công nghệ số bằng CapCut từ 5 video Pexels và 1 bản nhạc FreeSound; thêm chữ cho từng cảnh, hiệu ứng chuyển cảnh và fade out nhạc; xuất MP4 1080p (khoảng 25MB).
+4. **Video (2.2)**: Dựng video 30 giây giới thiệu lợi ích công nghệ số bằng CapCut từ 6 video Pexels và 1 bản nhạc FreeSound; thêm chữ cho từng cảnh, hiệu ứng chuyển cảnh và fade out nhạc; xuất MP4 1080p (khoảng 25MB).
 
 **Phần 3: Tạo và quản lý mã nguồn (CLO9)**
 
@@ -50,6 +50,7 @@ Mở `index.html` bằng trình duyệt để xem infographic và video trên c�
 | 7128687-uhd_2160_4096_25fps.mp4 | Pexels, video #7128687 |
 | 8196810-hd_1920_1080_25fps.mp4 | Pexels, video #8196810 |
 | 8478103-uhd_3840_2160_25fps.mp4 | Pexels, video #8478103 |
+| 9198715-hd_1080_1920_25fps.mp4 | Pexels, video #9198715 |
 | 670819 - free uplifting music | FreeSound, tác giả seth_makes_sounds |
 
 ## Trích dẫn nguồn AI
