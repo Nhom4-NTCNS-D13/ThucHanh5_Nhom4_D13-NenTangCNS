@@ -39,6 +39,25 @@
     .khung img { max-width: 100%; width: 420px; border-radius: 8px; }
     .khung video { width: 100%; max-width: 800px; border-radius: 8px; }
     .ghi-chu { font-size: 0.9rem; color: #4a5a6d; font-style: italic; margin-top: 12px; }
+    .lien-ket {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 12px;
+      padding: 0;
+      list-style: none;
+    }
+    .lien-ket a {
+      display: block;
+      background: var(--xanh-nhat);
+      border: 1px solid #c9dcf7;
+      border-radius: 10px;
+      padding: 14px 16px;
+      color: var(--xanh-dam);
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .lien-ket a:hover { background: var(--xanh); color: #ffffff; }
+    .lien-ket span { display: block; font-weight: normal; font-size: 0.85rem; opacity: 0.8; }
     footer {
       background: var(--xanh-nhat);
       padding: 24px 20px;
@@ -78,6 +97,19 @@
         </video>
         <p class="ghi-chu">Video tạo bởi CapCut, tài liệu từ Pexels/FreeSound.</p>
       </div>
+    </section>
+    <!-- Liên kết ngoài: các trang của Đại học Cần Thơ -->
+    <section>
+      <h2>Liên kết Đại học Cần Thơ</h2>
+      <p>Một số trang web chính thức của Trường Đại học Cần Thơ hỗ trợ sinh viên trong học tập.</p>
+      <ul class="lien-ket">
+        <li><a href="https://ctu.edu.vn" target="_blank" rel="noopener noreferrer">Trường Đại học Cần Thơ<span>Website chính thức của trường</span></a></li>
+        <li><a href="https://cit.ctu.edu.vn" target="_blank" rel="noopener noreferrer">Trường CNTT&amp;TT<span>Trường Công nghệ Thông tin và Truyền thông</span></a></li>
+        <li><a href="https://htql.ctu.edu.vn/htql/login.php" target="_blank" rel="noopener noreferrer">Hệ thống Quản lý<span>Đăng ký học phần, xem điểm, thời khóa biểu</span></a></li>
+        <li><a href="https://elcit.ctu.edu.vn" target="_blank" rel="noopener noreferrer">E-learning CIT<span>Hệ thống học trực tuyến</span></a></li>
+        <li><a href="https://daa.ctu.edu.vn" target="_blank" rel="noopener noreferrer">Phòng Đào tạo<span>Thông báo, quy chế và lịch học vụ</span></a></li>
+        <li><a href="https://dsa.ctu.edu.vn" target="_blank" rel="noopener noreferrer">Phòng Công tác Sinh viên<span>Học bổng, hoạt động và hỗ trợ sinh viên</span></a></li>
+      </ul>
     </section>
   </main>
 
